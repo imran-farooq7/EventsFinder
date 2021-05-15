@@ -1,5 +1,7 @@
+import Layout from "../../components/Layout";
+
 const AddPage = () => {
-  return <div></div>;
+  return <Layout title="Add new event"></Layout>;
 };
 
 export default AddPage;
